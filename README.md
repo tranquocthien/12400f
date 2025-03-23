@@ -3,16 +3,16 @@
 ## BIOS
 
 - Disable
-Fast Boot
-Secure Boot
-Serial/COM Port
-Parallel Port
-VT-d
-Compatibility Support Module (CSM)
-Thunderbolt
-Intel SGX
-Intel Platform Trust
-CFG Lock (MSR 0xE2 write protection)
+1. Fast Boot
+2. Secure Boot
+3. Serial/COM Port
+4. Parallel Port
+5. VT-d
+6. Compatibility Support Module (CSM)
+7. Thunderbolt
+8. Intel SGX
+9. Intel Platform Trust
+10. CFG Lock (MSR 0xE2 write protection)
 
 - Enable
 VT-x
