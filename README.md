@@ -2,27 +2,27 @@
 
 ## BIOS
 
-- Disable
-1. Fast Boot
-2. Secure Boot
-3. Serial/COM Port
-4. Parallel Port
-5. VT-d
-6. Compatibility Support Module (CSM)
-7. Thunderbolt
-8. Intel SGX
-9. Intel Platform Trust
-10. CFG Lock (MSR 0xE2 write protection)
+### Disable
+- Fast Boot
+- Secure Boot
+- Serial/COM Port
+- Parallel Port
+- VT-d
+- Compatibility Support Module (CSM)
+- Thunderbolt
+- Intel SGX
+- Intel Platform Trust
+- CFG Lock (MSR 0xE2 write protection)
 
-- Enable
+### Enable
 VT-x
-Above 4G Decoding
-Hyper-Threading
-Execute Disable Bit
-EHCI/XHCI Hand-off
-OS type: Other OS
-DVMT Pre-Allocated(iGPU Memory): 64MB hoặc cao hơn
-SATA Mode: AHCI
+- Above 4G Decoding
+- Hyper-Threading
+- Execute Disable Bit
+- EHCI/XHCI Hand-off
+- OS type: Other OS
+- DVMT Pre-Allocated(iGPU Memory): 64MB hoặc cao hơn
+- SATA Mode: AHCI
 
 bt403: Dùng IntelBluetoothFirmware.kext và BlueToolFixup.kext (BrcmPatchRAM)
 
