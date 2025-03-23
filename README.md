@@ -24,7 +24,7 @@
 - DVMT Pre-Allocated(iGPU Memory): 64MB hoặc cao hơn
 - SATA Mode: AHCI
 
-bt403: Dùng IntelBluetoothFirmware.kext và BlueToolFixup.kext (BrcmPatchRAM)
+ ### Bluetooth: (using bt403): IntelBluetoothFirmware.kext and BlueToolFixup.kext (BrcmPatchRAM)
 
 
 doge:DMYYzcma9eefrB8Ys1RU3CU8KR4wsn2oDL
