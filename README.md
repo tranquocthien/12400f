@@ -15,7 +15,7 @@
 - CFG Lock (MSR 0xE2 write protection)
 
 ### Enable
-VT-x
+- VT-x
 - Above 4G Decoding
 - Hyper-Threading
 - Execute Disable Bit
